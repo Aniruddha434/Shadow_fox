@@ -15,9 +15,9 @@ Strengths:Interactivity, customization, and support for advanced visualizations 
 Weaknesses:Steeper learning curve, complexity for beginners, and potential overkill for simple plots.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-### Air Quality Analysis: Delhi, January 2023
+### Air Quality Analysis: Delhi, January 2024
 
-This project analyzes air quality data for Delhi, India in January 2023. Key findings include:
+This project analyzes air quality data for Delhi, India in January 2024. Key findings include:
 
 Predominantly Poor Air Quality:
 
